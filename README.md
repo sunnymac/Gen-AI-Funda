@@ -10,19 +10,16 @@ The course is organized into 12 weeks, with each week containing:
 
 📖 Theory – Lecture notes, summaries, key concepts, and explanations.
 💻 Practical – Hands-on exercises, code implementations, and experiments.
-Week-01/
-│── Theory/
-│── Practical/
 
-Week-02/
-│── Theory/
-│── Practical/
+## 📂 Repository Structure
 
-...
+| Week | Theory | Practical |
+|------|--------|-----------|
+| Week 01 | 📖 Notes & Concepts | 💻 Code & Exercises |
+| Week 02 | 📖 Notes & Concepts | 💻 Code & Exercises |
+| ... | ... | ... |
+| Week 12 | 📖 Notes & Concepts | 💻 Code & Exercises |
 
-Week-12/
-│── Theory/
-│── Practical/
 
 🎯 Purpose
 Document my learning throughout the course.
